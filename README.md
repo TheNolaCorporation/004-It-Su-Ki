@@ -1,3 +1,18 @@
+#DRIVER PRIVACY STATEMENT
+##EFFECTIVE JANUARY 1, 2017
+###Truck-it Llc. Collects information about the driver (you) when you use our mobile apps, website, services (collectively), and through other interactions and communications you have with us. For persons residing in the United States, the services provided by Truck-it Llc..
+####Scope and Application
+The U.S. driver privacy statement applies to drivers, couriers, partnered transportation services, and any other person that uses the Truck-it platform under license and resides in the United States. This statement does not apply to those driving or resides outside of the U.S...  this statement also does not apply to patrons who use the app or services to request transport of goods and delivery. If you interact with the services as both user and driver, the  respective privacy statements apply to your different interactions.
+#####Collection of Information
+Truck-it may collect personal data from you during the course of your app for, and use of, the Truck-it services, including location data, which information may be stored, processed, and/ or accessed by Truck-it, as well as its service providers, for business purposes, including for marketing, lead generation, service development and improvement, analytics, industry and market research, and such other purposes consistent with Truck-it and its affiliates’ legitimate business needs. By submitting information to Truck-it during the application process and/or by using the services, you consent to such collection and use of personal data. 
+######Disclosure of driver information to third parties
+Subject to all applicable laws, Truck-it may provide to a third party any information (including personal data and any Truck-it data) about drivers provided hereunder if: (A) there is a complaint, dispute or conflict, including an accident, relating to a driver; (B) it is necessary to enforce the terms of the agreement; (C) It is required, in Truck-its sole discretion, by applicable law, regulation, ordinance, license, or operating agreement; (D) it is necessary, in Truck-its’ sole discretion, to protect the safety, rights, property, or security of Truck-it, the Truck-it services, or any third party; to detect, prevent or otherwise address fraud, security or technical issues; and/or to prevent or stop activity which Truck-it, in its sole discretion, consider to be, or to pose a risk of being, illegal, unethical, or legally actionable.
+
+#####Location-based services consent
+You hereby expressly consent to Truck-its’ use of location-based services and expressly waive and release Truck-it from any and all liability, clams, causes of action or damages arising from your use of the Truck-it services, or in any way relating to the precise location and other-located and other location- based services.
+
+---------------------------------
+
 #トコン
 ##[26.233132]
 ###崑へ
